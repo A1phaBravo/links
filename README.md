@@ -13,3 +13,6 @@ https://www.inspiredpython.com/course/game-boy-emulator/game-boy-emulator-design
 https://www.youtube.com/watch?v=F8kx56OZQhg \
 https://github.com/OneLoneCoder \
 https://forums.nesdev.org/viewtopic.php?t=10558&start=60 \
+
+Fail-over \
+https://www.informaticar.net/how-to-create-iis-webserver-cluster-highly-available-iis-for-exchange-services-arr/
