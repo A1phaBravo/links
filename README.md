@@ -16,3 +16,8 @@ https://forums.nesdev.org/viewtopic.php?t=10558&start=60 \
 
 Fail-over \
 https://www.informaticar.net/how-to-create-iis-webserver-cluster-highly-available-iis-for-exchange-services-arr/
+
+
+https://opensource.glassanimals.com/
+\
+https://www.reddit.com/r/web_design/comments/hm91b7/curated_list_of_websites_that_look_like_desktop/
