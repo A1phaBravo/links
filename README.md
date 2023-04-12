@@ -25,3 +25,9 @@ https://www.reddit.com/r/web_design/comments/hm91b7/curated_list_of_websites_tha
 https://h4ck1ng.google/home
 
 https://simone.computer/#/webdesktops
+
+https://portfolio.zxh.io/
+
+https://rajaniraiyn.github.io/windows11/
+
+https://github.com/React95/React95
