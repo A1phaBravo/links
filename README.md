@@ -21,3 +21,7 @@ https://www.informaticar.net/how-to-create-iis-webserver-cluster-highly-availabl
 https://opensource.glassanimals.com/
 \
 https://www.reddit.com/r/web_design/comments/hm91b7/curated_list_of_websites_that_look_like_desktop/
+
+https://h4ck1ng.google/home
+
+https://simone.computer/#/webdesktops
