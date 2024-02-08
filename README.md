@@ -1,6 +1,6 @@
 #links
 <br>
-http://world4ufree.digital
+http://world4ufree.wf
 
 <br>
 https://www.rabbitmq.com/federated-exchanges.html
